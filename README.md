@@ -9,6 +9,8 @@ With real-time price comparison apps widely used by consumers, petrol stations o
 
 Real-time price data from app and website: Clever-Tanken.
 
+A localized region was picked for hypothesis testing: Rosenheim.
+
 ## Hypothesis
 - Petrol stations are more likely to initiate price cuts when their app-based ranking falls X threshold among nearby competitors.
 
@@ -25,6 +27,6 @@ Real-time price data from app and website: Clever-Tanken.
 
 ## Deliverables
 - R script (data preprocessing, Lasso logistic regression implementation)
-- ArcGIS workflow for spatial competitor mapping
+- ArcGIS workflow for spatial competitor mapping (only extracted data in repository)
 - Final project report summarizing hypothesis, methodology, and insights
 
